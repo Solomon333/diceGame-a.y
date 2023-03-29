@@ -3,7 +3,7 @@ let randomNumber2 = Math.floor(Math.random()* 6) + 1;
 
 let randomImage1 = "images/dice" + randomNumber1 + ".png";
 let randomImage2 = "images/dice" + randomNumber2 + ".png";
-let result = document.querySelector("h1");
+// let result = document.querySelector("h1");
 
 let player1 = document.querySelectorAll("img")[0];
 let player2 = document.querySelectorAll("img")[1];
@@ -12,11 +12,11 @@ player1.setAttribute("src", randomImage1);
 player2.setAttribute("src", randomImage2);
 
     if(randomImage1 > randomImage2 ){
-         result.innerHTML = "Player 1  won!!";
+          document.querySelector("h1").innerHTML = "Player 1  wins!! ⭐";
     }else if(randomImage2 > randomImage1) {
-         result.innerHTML = "Player 2 won!!"
+          document.querySelector("h1").innerHTML = "Player 2 won!!⭐"
     }else {
-         result.innerHTML = "Draw!!"
+          document.querySelector("h1").innerHTML = "Draw!!😁"
     }
     
 
