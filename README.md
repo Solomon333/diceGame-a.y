@@ -1,4 +1,4 @@
-DiceGame from the Angela Yu course web development course :
+DiceGame from the Angela Yu  web development course :
 
 
 
