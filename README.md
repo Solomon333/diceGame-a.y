@@ -1,8 +1,7 @@
-DiceGame from the Angela Yu  web development course :
+DiceGame :
 
 
-
-a simple and effective way to learn how the DOM works:
+- a simple and effective way to learn how the DOM works:
 
 -setAttribute.
 
