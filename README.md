@@ -3,11 +3,11 @@ DiceGame :
 
 - a simple and effective way to learn how the DOM works:
 
--setAttribute.
+- setAttribute.
 
--querySelector.
+- querySelector.
 
--if else conditions.
+- if else conditions.
 
--using a random number generator.
+- using a random number generator.
 
