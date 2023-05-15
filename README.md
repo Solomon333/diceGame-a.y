@@ -7,5 +7,5 @@ Dice-Game :
 
 - if else conditions.
 
-- using a random number generator.
+- random number generator.
 
