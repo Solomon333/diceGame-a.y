@@ -1,11 +1,9 @@
 Dice-Game :
 
 
-- a simple and effective way to learn how the DOM works:
+- simple and effective way to learn how the DOM works:
 
-- setAttribute.
-
-- querySelector.
+- setAttribute. - querySelector.
 
 - if else conditions.
 
