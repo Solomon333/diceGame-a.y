@@ -1,7 +1,7 @@
 Dice-Game :
 
 
-- Simple and effective way to learn how the DOM works:
+- JavaScrpt DOM.
 
 - SetAttribute. - querySelector.
 
