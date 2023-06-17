@@ -1,7 +1,7 @@
 Dice-Game :
 
 
-- JavaScrpt DOM.
+- JavaScrpt : DOM manipulation , 
 
 - SetAttribute. - querySelector.
 
