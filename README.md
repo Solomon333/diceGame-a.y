@@ -3,7 +3,6 @@ Dice-Game :
 
 - JavaScrpt :
 
- DOM manipulation , setAttribute , querySelector , if else conditions.
-
-- Random number generator.
+ DOM manipulation , setAttribute , querySelector , if else conditions,
+ Random number generator.
 
