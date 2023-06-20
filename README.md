@@ -1,12 +1,10 @@
 Dice-Game :
 
 
-- JavaScrpt.
+- JavaScrpt. - HTML. - CSS.
 
  DOM manipulation , setAttribute , querySelector , if else conditions,
  Random number generator.
 
- - HTML.
-  
- - CSS.
+
 
