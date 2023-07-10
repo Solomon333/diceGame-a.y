@@ -7,7 +7,7 @@ Dice-Game :
  - setAttribute
  - querySelector
  - if else conditions,
- Random number generator.
+ - Random number generator.
 
 
 
