@@ -2,7 +2,7 @@ Dice-Game :
 
 
 - JavaScrpt
--  , HTML
+- HTML
 -  ,  CSS.
 
  - DOM manipulation
