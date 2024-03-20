@@ -1,8 +1,7 @@
 Dice-Game :
 
 
-- JavaScrpt
-- HTML
+- JavaScrpt HTML
 - CSS.
  - DOM manipulation
  - setAttribute
