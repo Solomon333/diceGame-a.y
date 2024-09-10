@@ -7,7 +7,7 @@ Dice-Game -
   
 - querySelector/if else conditions -
   
-- Random number generator 
+- Random number generator -
 
 
 
